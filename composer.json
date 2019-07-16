@@ -1,0 +1,16 @@
+{
+    "name": "bigbuy/prueba1",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Alberto Cuadrado",
+            "email": "Alberto.cuvi@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
